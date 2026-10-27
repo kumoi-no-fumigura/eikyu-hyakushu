@@ -5,7 +5,12 @@
  "yomi": "えいきゅうひゃくしゅ",
  "category": "私撰集",
  "kind": "kashu",
- "description": null,
+ "description": {
+  "kind": "定数歌（百首歌）",
+  "era": "永久4年（1116）",
+  "author": "藤原仲実・源俊頼ら7人",
+  "desc": "堀河百首にならった組題百首で、「堀河次郎百首」とも呼ばれる。"
+ },
  "editions": [
   {
    "pid": "2576228",
